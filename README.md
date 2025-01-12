@@ -1,2 +1,2 @@
 # didactic-goggles
-didactic-goggles github workflow training
+created for github workflow training
